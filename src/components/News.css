@@ -1,0 +1,25 @@
+
+
+.nextButton, .previousButton{
+    background: #212529;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border: none;
+    position: fixed;
+    cursor: pointer;
+}
+
+.nextButton{
+    right: 10px;
+    bottom: 10px;
+}
+
+.previousButton{
+    left: 10px;
+    bottom: 10px;
+}

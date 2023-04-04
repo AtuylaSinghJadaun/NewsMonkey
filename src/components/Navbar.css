@@ -1,0 +1,10 @@
+.focus{
+    background: black;
+    color: white;
+    /* padding: 5px; */
+    border-radius: 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
